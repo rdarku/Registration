@@ -1,0 +1,54 @@
+body {
+    background-color: cornflowerblue;
+    margin:0;
+    font-family: 'Poppins', sans-serif;
+}
+
+header {
+    min-height: 70px;
+    background-color: floralwhite;
+    margin:0;
+    top: 0;
+    /* border-bottom: black 1px solid; */
+    box-shadow: 0 0 5px 0 red;
+}
+
+nav {   
+    padding: 20px;
+    float: right;
+}
+
+button {
+    background-color: dodgerblue;
+    color: white;
+    border: thin black;
+    padding: 10px 20px;
+    margin: auto 10px;
+    border-radius: 4px;
+    text-align: center;
+}
+
+input {
+    width: 97%;
+    padding: 5px;
+    margin: 10px 0;
+}
+
+#formBox {
+    width: 30%;
+    margin: 100px auto;
+    padding: 30px;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.largeBtn {
+    
+    margin: 0;
+    width: 100%;
+}
+
+.oAuthBox {
+    text-align: center;
+    margin: 40px;
+}
